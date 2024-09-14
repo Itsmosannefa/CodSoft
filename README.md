@@ -1,10 +1,11 @@
-This repository showcases a collection of projects completed during my internship program. The projects demonstrate my skills and experience in Python Programming, and cover a range of topics, including:
-<hr>
--To-Do List Application:
-This repository contains the code for the "TaskMaster" project, a To-Do List application that helps users manage and organize their tasks efficiently. The project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
-<hr>
--Calculator:
-A simple graphical calculator for basic arithmetic operations. Features a user-friendly interface with digit buttons, operation buttons, and a display screen for calculations and results.
-<hr>
--Password Generator:
-A Python-based password generator tool designed to create strong, unique, and random passwords for users.
+Internship Projects
+This repository showcases a collection of projects completed during an internship, demonstrating skills in Python programming across various applications.
+
+🔧 To-Do List Application:
+A task management app for creating, updating, and tracking tasks. Available as a command-line or GUI-based tool, it helps users stay organized.
+
+➕ Calculator:
+A basic graphical calculator for quick arithmetic operations with a clean, user-friendly interface.
+
+🔒 Password Generator:
+A Python tool to generate strong, random passwords with customizable length and complexity.
