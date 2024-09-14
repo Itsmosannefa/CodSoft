@@ -1,4 +1,4 @@
-Internship Projects
+<h3>Internship Projects</h3>
 This repository showcases a collection of projects completed during an internship, demonstrating skills in Python programming across various applications.
 
 🔧 To-Do List Application:
